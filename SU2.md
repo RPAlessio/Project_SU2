@@ -24,7 +24,7 @@ The person who desires to use SU2 can obtain its files either in its official we
 
 #### Miscellaneous and Contributions
 
-SU2 provides documentation on installation of the software and theory about the main governing equations alongside with a users guide. Anyone can contribute to the documentation of SU2 by submitting a pull request to the develop branch of the repository. Furthermore, a variety of tutorials enclosing many study cases and a V&V (verification & validation) section for SU2 solvers are available in the homepage of the software. Likewise, one may contribute to the tutorials and V&V sections by making a pull request to the develop branch in the repository. More information on how to contribute to the software is available at `https://su2code.github.io/vandv/home/`.
+SU2 provides documentation on installation of the software and theory about the main governing equations alongside with a users guide. Anyone can contribute to the documentation of SU2 by submitting a pull request to the develop branch of the repository. Furthermore, a variety of tutorials enclosing many study cases and a V&V (verification & validation) section for SU2 solvers are available in the homepage of the software. Likewise, one may contribute to the tutorials and V&V sections by making a pull request to the develop branch in the repository. More information on how to contribute to the software is available at `https://su2code.github.io/`.
 
 ### Tutorial
 
