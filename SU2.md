@@ -2,7 +2,7 @@
 
 ### What is SU2?
 
-SU2 is an open-source code which aims to provide numerical solutions to partial differential equations. Furthermore, it can calculate constrained optimization of partial differential equations. At the beginning, SU2 mostly focused on fluid dynamics problems, such as incompressible and incompressible flows, external and internal flows and aerodynamic designs. Nowadays, this open-source software performs multiphysical simulations, including fluid-structure interaction and chemically-reacting flows. Other solvers for applications such as structure mechanics considering elasticity and electrodynamics are also available in the software. From a simulation point-of-view, SU2 acts as a solver for the different applications being considered, performing all the calculations concerning the problem at hand. Therefore, the pre- and post-processings of the application are performed in different softwares.
+SU2 is an open-source code which aims to provide numerical solutions to partial differential equations. Furthermore, it can calculate constrained optimization of partial differential equations. At the beginning, SU2 mostly focused on fluid dynamics problems, such as incompressible and incompressible flows, external and internal flows and aerodynamic designs. Nowadays, this open-source software performs multiphysical simulations, including fluid-structure interaction and chemically-reacting flows. Other solvers for applications such as structure mechanics considering elasticity and electrodynamics are also available in the software. From a simulation point-of-view, SU2 acts as a solver for the different applications being considered, performing all the calculations concerning the problem at hand. Therefore, the pre- and post-processings of the application are performed in different environments.
 
 ### Main Features
 
@@ -28,4 +28,4 @@ SU2 provides documentation on installation of the software and theory about the 
 
 ### Tutorial
 
-
+A tutorial of an internal incompressible laminar flow was done. The corresponding files of the tutorial and a figure of the velocity field can be found in the same folder which contains this report.
