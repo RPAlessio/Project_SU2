@@ -2,8 +2,7 @@
 
 ### What is SU2?
 
-SU2 is an open-source code which aims to provide numerical solutions to partial differential equations. Furthermore, it can calculate constrained optimization of partial differential equations. At the beginning, SU2 mostly focused on fluid dynamics problems, such as incompressible and incompressible flows, external and internal flows and aerodynamic designs. Nowadays, this open-source software performs multiphysical simulations, including fluid-structure interaction and chemically-reacting flows. Other solvers for applications such as structure mechanics considering elasticity and electrodynamics are also available in the software. From a simulation point-of-view, SU2 acts as a solver for the different applications being considered, performing all the calculations concerning the problem at hand. Therefore, the pre- and post-processings of the application are performed in different environments.
-
+SU2 is an open-source code which aims to provide numerical solutions to partial differential equations. Furthermore, it can calculate constrained optimization of partial differential equations. At the beginning, SU2 mostly focused on fluid dynamics problems, such as incompressible and incompressible flows, external and internal flows and aerodynamic designs. Nowadays, this open-source software performs multiphysical simulations, including fluid-structure interaction and chemically-reacting flows. Other solvers for applications such as structure mechanics considering elasticity and electrodynamics are also available in the software. From a simulation point-of-view, SU2 acts as a solver for the different applications being considered, performing all the calculations concerning the problem at hand. Therefore, the pre- and post-processings of the application are performed in different environments. More information about SU2 can be found under `https://su2code.github.io/`.
 ### Main Features
 
 #### General Overview
@@ -20,12 +19,12 @@ Once the simulation is done, the output files will be written in the same direct
 
 #### How to Obtain the Software
 
-The person who desires to use SU2 can obtain its files either in its official website (`https://su2code.github.io/download.html`) or in its GitHub repository `su2code/SU2` under `releases`.
+The person who desires to use SU2 can obtain its files either in its official website (`https://su2code.github.io/download.html`) or in its GitHub repository `su2code/SU2` under `releases` (`https://github.com/su2code/SU2/releases`).
 
 #### Miscellaneous and Contributions
 
-SU2 provides documentation on installation of the software and theory about the main governing equations alongside with a users guide. Anyone can contribute to the documentation of SU2 by submitting a pull request to the develop branch of the repository. Furthermore, a variety of tutorials enclosing many study cases and a V&V (verification & validation) section for SU2 solvers are available in the homepage of the software. Likewise, one may contribute to the tutorials and V&V sections by making a pull request to the develop branch in the repository. More information on how to contribute to the software is available at `https://su2code.github.io/`.
+SU2 provides documentation on installation of the software and theory about the main governing equations alongside with a users guide (`https://su2code.github.io/docs_v7/home/`). Anyone can contribute to the documentation of SU2 by submitting a pull request to the develop branch of the repository. Furthermore, a variety of tutorials enclosing many study cases (`https://su2code.github.io/tutorials/home/`) and verification and validation (V&V) section for SU2 solvers are available in the homepage of the software (`https://su2code.github.io/vandv/home/`). Likewise, one may contribute to the tutorials and V&V sections by making a pull request to the develop branch in the repository. To contribute to the documentation of the software, please refer to `https://su2code.github.io/docs_v7/contribute/`. For contributions to tutorials or V&V, please refer to `https://su2code.github.io/tutorials/contribute/` or `https://su2code.github.io/vandv/Contribute/`
 
 ### Tutorial
 
-A tutorial of an internal incompressible laminar flow was done. The corresponding files of the tutorial and a figure of the velocity field can be found in the same folder which contains this report.
+A tutorial of an internal incompressible laminar flow was done. For more information concerning the tutorial, please refer to `https://su2code.github.io/tutorials/Inc_Laminar_Step/`.
